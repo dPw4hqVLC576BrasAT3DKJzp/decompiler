@@ -2,6 +2,8 @@
 
 custom decompiler using a disassembler & chatgpt
 
+credits to people who made disasembler and me
+
 **EXAMPLE 1:**
 ```lua
 loadstring(request({Url="https://raw.githubusercontent.com/dPw4hqVLC576BrasAT3DKJzp/decompiler/main/decompile.lua",Method="GET"}).Body)();
