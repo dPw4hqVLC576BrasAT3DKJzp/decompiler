@@ -2,7 +2,7 @@
 
 custom decompiler using a disassembler & chatgpt
 
-credits to people who made disasembler and me
+credits to people who made disassembler and me
 
 **EXAMPLE 1:**
 ```lua
