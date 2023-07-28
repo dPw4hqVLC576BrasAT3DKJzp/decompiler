@@ -793,4 +793,5 @@ local function disassemble(a1, showOps)
     return output
 end
 
+getgenv().disassemble = disassemble;
 return disassemble
